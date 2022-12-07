@@ -4,3 +4,11 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+<h2> COSAS POR HACER EN LA CIUDAD DE LA LUZ 
+
+- [ ] Paseo por Río Sena
+- [ ] Visitar la Torre Eiffel
+- [ ] Visitar el Museo de Versalles
+- [ ] Visitar Notre Dame
+- [ ] Visitar el Museo de Louvre 
+- [ ] Ver el magestuoso Arco del Triunfo 
